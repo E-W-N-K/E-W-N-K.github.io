@@ -52,8 +52,3 @@ I'm a developer focused on building scalable backend systems and applications wi
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-W-N-K&theme=tokyonight" alt="GitHub Streak" />
 
 <img src="https://komarev.com/ghpvc/?username=E-W-N-K&color=7aa2f7&style=flat" alt="visitors count" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=E-W-N-K&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
-
