@@ -16,6 +16,7 @@ I'm a developer focused on building scalable backend systems and applications wi
 
 - 📚 **Continuous Learning:** Always exploring new frameworks, tools, and best practices in Java ecosystem.
 - 🧩 **Hobbies:** Big fan of playing **Russian Billiards (Pyramid)**, practicing **Karate**, hitting the **gym** to stay energized.
+- ⚡ **Fun Fact:** Love classic rock of 70s, 80s and 90s and sometimes learning their iconic songs on the guitar.
 
 ---
 
