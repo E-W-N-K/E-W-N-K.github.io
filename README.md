@@ -1,25 +1,33 @@
 [English](README.md) | [Русский](README.ru.md)
 
 # About me
-# Hello 👋, I'm Evgeniy Sakun
-### Java Developer
+# Hi there 👋, I'm Evgeniy Sakun
+### 🚀 Java Backend Developer
 
-I’m a Java backend developer focused on developing applications with a microservice architecture. 
-I’m easy to work with and collaborative. 
-I like working in a team, solving difficult problems, finding new ways of solution, and sharing my experiences with others.
+I'm a developer focused on building scalable backend systems and applications with a **microservice architecture**.
+
+- 💡 **What I do:** Crafting clean code, designing microservices, and solving complex architecture challenges.
+- 🎯 **Current Focus:** Deepening my knowledge in high-load systems, event-driven architecture, and modern cloud technologies.
+- 🤝 **Work Style:** Collaborative, highly adaptative, and a firm believer in team-driven success and knowledge sharing.
+
+---
+
+### ⚡ Interests
+
+- 📚 **Continuous Learning:** Always exploring new frameworks, tools, and best practices in Java ecosystem.
+- 🧩 **Hobbies:** Big fan of playing **Russian Billiards (Pyramid)**, practicing **Karate**, hitting the **gym** to stay energized.
+
+---
 
 ## Contact Me
+
 <p>
-  <a href="https://www.linkedin.com/in/evgeniy-sakun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <a href="https://t.me/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/evgeniy-sakun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/EWNK_56" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:sakunevgeniy56@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+---
 
 ## Skills
 
@@ -32,8 +40,9 @@ I like working in a team, solving difficult problems, finding new ways of soluti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 </p>
+
+---
 
 ## GitHub Stats
 
