@@ -37,11 +37,11 @@ I like working in a team, solving difficult problems, finding new ways of soluti
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=E-W-N-K&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=E-W-N-K&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-W-N-K&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/E-W-N-K/count.svg?" alt="visitors count" />
+<img src="https://komarev.com/ghpvc/?username=E-W-N-K&color=7aa2f7&style=flat" alt="visitors count" />
 
 ## GitHub Activity Graph
 
